@@ -11,7 +11,7 @@ const Contact = () => (
       <div className="bg-white rounded-[20px] shadow-[0_20px_60px_rgba(0,0,0,0.08)] p-8 md:p-10">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 justify-items-center">
           <a
-            href="mailto:pratikmahto8864@gmail.com"
+            href="mailto:pr656274@gmail.com"
             className="w-full max-w-sm inline-flex items-center gap-3 px-6 py-5 bg-white rounded-2xl shadow-[0_8px_20px_rgba(0,0,0,0.08)] border border-gray-100 hover:shadow-[0_12px_28px_rgba(0,0,0,0.10)] transition-all"
           >
             <span className="w-9 h-9 rounded-full bg-gray-100 flex items-center justify-center text-gray-800">
