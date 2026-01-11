@@ -13,7 +13,7 @@ const Education = () => (
           <div className="flex items-start gap-3 md:gap-4">
             <div className="text-2xl md:text-4xl">🎓</div>
             <div>
-              <h3 className="text-lg md:text-2xl font-bold mb-2">Gujarat University</h3>
+              <h3 className="text-lg md:text-2xl font-bold mb-2">Silver Oak University</h3>
               <p className="text-base md:text-lg text-gray-700 mb-2">Bachelor of Computer Applications (BCA)</p>
               <p className="text-gray-600">2021 - 2024</p>
             </div>

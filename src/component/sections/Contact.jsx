@@ -32,7 +32,7 @@ const Contact = () => (
           </a>
 
           <a
-            href="https://github.com/Mahto-pratik/"
+            href="https://github.com/Pratik818"
             target="_blank"
             className="w-full max-w-sm inline-flex items-center gap-3 px-6 py-5 bg-white rounded-2xl shadow-[0_8px_20px_rgba(0,0,0,0.08)] border border-gray-100 hover:shadow-[0_12px_28px_rgba(0,0,0,0.10)] transition-all"
           >
@@ -44,7 +44,7 @@ const Contact = () => (
 
           {/* Second row, centered card */}
           <a
-            href="https://wa.me/+916355656614" 
+            href="https://wa.me/+919173849427" 
             target="_blank"
             className="w-full max-w-sm inline-flex items-center gap-3 px-6 py-5 bg-white rounded-2xl shadow-[0_8px_20px_rgba(0,0,0,0.08)] border border-gray-100 hover:shadow-[0_12px_28px_rgba(0,0,0,0.10)] transition-all md:col-start-2"
           >
